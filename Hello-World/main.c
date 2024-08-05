@@ -8,7 +8,9 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    // This is a my first program using xcode
+    printf("##########################\n");
+    printf("Everthing is working fine!\n");
+    printf("##########################\n");
     return 0;
 }
